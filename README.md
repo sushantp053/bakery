@@ -1,8 +1,11 @@
 # bakery
 
-A new Flutter project.
+Bakery application 
 
 ## Getting Started
+
+![WhatsApp Image 2022-11-23 at 1 37 26 PM](https://user-images.githubusercontent.com/10486561/203545134-09c36f92-729b-4537-82e3-30dac0917a24.jpeg)
+
 
 This project is a starting point for a Flutter application.
 
